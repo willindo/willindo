@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Badsha
+- 👀 I’m interested in web development -- MERN,  webpage of ANIMATION/3D/RESPONSIVE/OPTIMIZED/SEO, UI DESIGN from UX, Nextjs project. 
+- 🌱 I’m currently learning MICROSERVICE of node express backend, glsl shaders as well...
+- 💞️ I’m looking to freelance until long-period appointment
+- 
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+willindo/willindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
