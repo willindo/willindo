@@ -6,8 +6,8 @@
 - 📫 How to reach me ... badshanoordeen@gmail.com
    contact  mob/whatsapp ...india ...  919061464906 ...
    www.linkedin.com/in/badsha-noordeen-20b328305
-   https://portfolio-like-badshakn.vercel.app/
-   https://babyloncoretry.vercel.app/
+  (portfolio ) https://portfolio-like-badshakn.vercel.app/
+   ( 3D web )https://babyloncoretry.vercel.app/
 - ⚡ Fun fact: ... my academic history as  nothing  
 
 
