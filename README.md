@@ -7,7 +7,7 @@
    contact  mob/whatsapp ...india ...  919061464906 ...
    www.linkedin.com/in/badsha-noordeen-20b328305
   (portfolio ) https://portfolio-badsha.vercel.app/
-   ( 3D web )https://babyloncoretry.vercel.app/
+   ( 3D web )https://3d-try.vercel.app/
 - ⚡ Fun fact: ... my academic history as  nothing  
 
 
