@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Badsha
-- 👀 I’m interested in web development -- MERN,  webpage of ANIMATION/3D/RESPONSIVE/OPTIMIZED/SEO, UI DESIGN from UX, Nextjs project. 
-- Skills Snapshot: Proficient in React,Tailwind CSS,Bootstrap,Sass,Less, GSAP, GLSL shader experimentation.R3Fiber,Threejs,Babylonjs,React-router, Redux/useContext+useReducer/Zustand, Typescript and I’m always eager to learn more.
+- 👀 I’m interested in web development -- MERN,Docker, webpage of ANIMATION/3D/RESPONSIVE/OPTIMIZED/SEO, UI DESIGN from UX, Nextjs project. 
+- Skills Snapshot: Proficient in React,Tailwind CSS,Bootstrap,Sass,Less, GSAP, R3Fiber,Threejs,Babylonjs,React-router, Redux/useContext+useReducer/Zustand, Typescript and I’m always eager to learn more.
+- Docker as well
 - 🌱 I’m currently learning glsl shaders as well... <<=== paused currently.
 - 💞️ I’m looking to freelance until long-period appointment
 - 📫 How to reach me ... badshanoordeen@gmail.com
