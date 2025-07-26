@@ -1,14 +1,53 @@
-- 👋 Hi, I’m Badsha
-- 👀 I’m interested in web development -- MERN,Docker, webpage of ANIMATION/3D/RESPONSIVE/OPTIMIZED/SEO, UI DESIGN from UX, Nextjs project. 
-- Skills Snapshot: Proficient in React,Tailwind CSS,Bootstrap,Sass,Less, GSAP, R3Fiber,Threejs,Babylonjs,React-router, Redux/useContext+useReducer/Zustand, Typescript and I’m always eager to learn more.
-- Docker as well
-- 🌱 I’m currently learning glsl shaders as well... <<=== paused currently.
-- 💞️ I’m looking to freelance until long-period appointment
-- 📫 How to reach me ... badshanoordeen@gmail.com
-   contact  mob/whatsapp ...india ...  919061464906 ...
-   www.linkedin.com/in/badsha-noordeen-20b328305
-  (portfolio ) https://portfolio-badsha.vercel.app/
-   ( 3D web )https://3d-try.vercel.app/
-- ⚡ Fun fact: ... my academic history as  nothing  
+# 👋 Hi, I'm Badsha Noordeen
 
+## 🚀 Fullstack & DevOps Engineer  
+🔧 Building scalable web apps and modern CI/CD pipelines  
+💻 React | Next.js | TypeScript | NestJS | Docker | Kubernetes | GitOps  
 
+---
+
+### 🧰 Tech Stack
+
+**Frontend**:  
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css)
+
+**Backend**:  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?&logo=nestjs) ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=fastify) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?&logo=prisma)
+
+**Database**:  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql)
+
+**DevOps**:  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-fd4d5c?&logo=argo) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&logo=github-actions) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform)
+
+---
+
+### 🛠️ Recent Projects
+
+#### 🔹 [`reload-ops`](https://github.com/willindo/reload-ops)
+> A fullstack app with login/register, product CRUD, and filters  
+🧱 Stack: Next.js + NestJS + PostgreSQL + Prisma  
+🚀 Features: Auth with `next-auth`, product pagination, responsive UI (Tailwind), Dockerized  
+
+#### 🔹 [`devops-miniapp`](https://github.com/willindo/devops-miniapp)
+> A real DevOps mini-project with CI/CD and GitOps workflows  
+⚙️ Stack: GitHub Actions + Docker + Kubernetes  + ArgoCD  
+📦 Helm charts, secrets, and ArgoCD auto-sync implemented from scratch  
+
+---
+
+### 📌 Currently Learning
+- Monitoring with Prometheus + Grafana + Loki
+- CI/CD optimization for multi-service apps
+- GitOps best practices at scale
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin)]]https://www.linkedin.com/in/badsha-noordeen-20b328305/
+[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?&logo=dev.to)](https://dev.to/yourusername)
+[![Email](https://img.shields.io/badge/-Email-EA4335?&logo=gmail)](mailto:your@email.com)
+
+---
+
+⭐ If you like what I do, feel free to star or fork my repositories!
