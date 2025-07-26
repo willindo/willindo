@@ -49,7 +49,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?&logo=gmail)](mailto:your@email.com)
 
 ---
-![Badsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Badsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willindo&show_icons=true&theme=radical)
 
 
 ⭐ If you like what I do, feel free to star or fork my repositories!
