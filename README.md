@@ -50,7 +50,7 @@
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1eamEy9iizHBwHCH2RVJpED9OPt5kWTYD/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin)](https://www.linkedin.com/in/badsha-noordeen-20b328305/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin)](https://www.linkedin.com/in/badsha-noordeen-20b328305/)
+
 
 
 ---
