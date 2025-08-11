@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-916733?&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-A24748?&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-A14479?&logo=mysql)
 
 **DevOps**:  
-![Docker](https://img.shields.io/badge/-Docker-ED9624?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326C32?&logo=kubernetes) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-8d4d5c?&logo=argo) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&logo=github-actions) ![Terraform](https://img.shields.io/badge/-Terraform-623C3C?&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-ED9624?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326C32?&logo=kubernetes) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-8d4dac?&logo=argo) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088A9?&logo=github-actions) ![Terraform](https://img.shields.io/badge/-Terraform-623C3C?&logo=terraform)
 
 ---
 
