@@ -9,16 +9,16 @@
 ### 🧰 Tech Stack
 
 **Frontend**:  
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-31C678?&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-AC38B2?&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js) ![React](https://img.shields.io/badge/-React-FBDA61?&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-807878?&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-AC38B2?&logo=tailwind-css)
 
 **Backend**:  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?&logo=nestjs) ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=fastify) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?&logo=prisma)
 
 **Database**:  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-916733?&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-A24748?&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-916733?&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-A24748?&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-A14479?&logo=mysql)
 
 **DevOps**:  
-![Docker](https://img.shields.io/badge/-Docker-ED9624?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326C32?&logo=kubernetes) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-fd4d5c?&logo=argo) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&logo=github-actions) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-ED9624?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326C32?&logo=kubernetes) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-8d4d5c?&logo=argo) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&logo=github-actions) ![Terraform](https://img.shields.io/badge/-Terraform-623C3C?&logo=terraform)
 
 ---
 
