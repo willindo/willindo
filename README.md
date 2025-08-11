@@ -47,6 +47,8 @@
 [![Email](https://img.shields.io/badge/Email-badshanoordeen%40gmail.com-red?logo=gmail&logoColor=white)](mailto:badshanoordeen@gmail.com)
 [![Mobile](https://img.shields.io/badge/Mobile-+91%209061%20464906-blue?logo=phone&logoColor=white)](tel:+919061464906)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%209061%20464906-25D366?logo=whatsapp&logoColor=white)](https://wa.me/919061464906)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1eamEy9iizHBwHCH2RVJpED9OPt5kWTYD/view?usp=drive_link)
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin)]]https://www.linkedin.com/in/badsha-noordeen-20b328305/
 
