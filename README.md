@@ -20,6 +20,11 @@
 **DevOps**:  
 ![Docker](https://img.shields.io/badge/-Docker-ED9624?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326C32?&logo=kubernetes) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-8d4dac?&logo=argo) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-A24748?&logo=github-actions) ![Terraform](https://img.shields.io/badge/-Terraform-623C3C?&logo=terraform)
 
+**3D / WebGL**:  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?&logo=three.js) 
+![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-61DAFB?&logo=react) 
+![Babylon.js](https://img.shields.io/badge/-Babylon.js-8A2BE2?&logo=babylon.js)
+
 ---
 
 ### 🛠️ Recent Projects
