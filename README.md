@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Badsha Noordeen
 
-## 🚀 Fullstack & DevOps Engineer  
+##  Fullstack & DevOps Engineer  
 🔧 Building scalable web apps and modern CI/CD pipelines  
 💻 React | Next.js | TypeScript | NestJS | Docker | Kubernetes | GitOps  
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Recent Projects
+###  Recent Projects
 
 Production-Grade Clothwear E‑Commerce Platform (Solo Architecture & Build)
 
@@ -45,8 +45,8 @@ Full‑stack architecture: Next.js (frontend), NestJS (backend), Prisma ORM, Zod
 
 #### 🔹 [`reload-ops`](https://github.com/willindo/reload-ops)
 > A fullstack app with login/register, product CRUD, and filters  
-🧱 Stack: Next.js + NestJS + PostgreSQL + Prisma  
-🚀 Features: Auth with `next-auth`, product pagination, responsive UI (Tailwind), Dockerized  
+⚙️ Stack: Next.js + NestJS + PostgreSQL + Prisma  
+📦 Features: Auth with `next-auth`, product pagination, responsive UI (Tailwind), Dockerized  
 
 #### 🔹 [`devops-miniapp`](https://github.com/willindo/devops-miniapp)
 > A real DevOps mini-project with CI/CD and GitOps workflows  
@@ -55,7 +55,7 @@ Full‑stack architecture: Next.js (frontend), NestJS (backend), Prisma ORM, Zod
 
 ---
 
-### 📌 Currently Learning
+###  Currently Learning
 - Monitoring with Prometheus + Grafana + Loki
 - CI/CD optimization for multi-service apps
 - GitOps best practices at scale
