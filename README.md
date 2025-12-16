@@ -29,6 +29,20 @@
 
 ### 🛠️ Recent Projects
 
+Production-Grade Clothwear E‑Commerce Platform (Solo Architecture & Build)
+
+I architected and built a mono‑seller clothwear e‑commerce platform from scratch, designed with production scalability and real business workflows in mind.
+
+Key Implementations:
+
+User & RBAC flows: JWT-based sessions, registration/login, email verification (Nodemailer/SMTP), protected dashboards
+Product & cart management: Full CRUD, advanced search with Meilisearch, filtering, cart operations, discounts & coupon logic
+Checkout & payments: Razorpay integration, order lifecycle handling, inventory updates, and safe PostgreSQL transactions
+
+Full‑stack architecture: Next.js (frontend), NestJS (backend), Prisma ORM, Zod validation
+
+🚧 Current Phase: Actively developing a multi‑seller (vendor‑enabled) version for a real client — introducing vendor workflows, improved scalability, and platform‑level controls.
+
 #### 🔹 [`reload-ops`](https://github.com/willindo/reload-ops)
 > A fullstack app with login/register, product CRUD, and filters  
 🧱 Stack: Next.js + NestJS + PostgreSQL + Prisma  
